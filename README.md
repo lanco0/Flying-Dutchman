@@ -1,3 +1,5 @@
 # Flying-Dutchman
-![Screenshot 2023-07-15 210240](https://github.com/lanco0/Flying-Dutchman/assets/77984587/fe6d4f98-558c-4db6-bebd-a158a50f9e58)
-![Screenshot 2023-07-15 210214](https://github.com/lanco0/Flying-Dutchman/assets/77984587/5ee01e2a-e9f3-40fe-97ca-220136a51bda)
+![Screenshot 2023-07-15 210240](https://github.com/lanco0/Flying-Dutchman/assets/77984587/7b46bb88-2dad-40cc-9c36-23ac9d3ad1dc)
+![Uploading Screenshot 2023-07-15 210214.png…]()
+![Screenshot 2023-07-15 210412](https://github.com/lanco0/Flying-Dutchman/assets/77984587/3d674bd4-9044-495c-a7fd-bd03e65e4bff)
+![Uploading Screenshot 2023-07-15 210402.png…]()
