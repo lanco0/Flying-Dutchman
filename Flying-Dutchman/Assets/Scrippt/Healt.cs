@@ -29,10 +29,7 @@ public class CanBari : MonoBehaviour
         {
             can -= 10;
         }
-        if (can < 0) ;
-        {
-            can = 0;
-        }
+       
     }
 }
 
